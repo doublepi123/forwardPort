@@ -1,6 +1,8 @@
 # forwardPort
 端口转发/映射工具 forward for port data
 
+全新带web控制台的端口转发工具，已迁移至 http://git.oschina.net/tavenli/port-forward
+
 ##编译：
 ```
 配置好你的GO开发环境，推荐GO 1.7以上；
